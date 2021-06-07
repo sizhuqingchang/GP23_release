@@ -14,7 +14,7 @@
         <parquet.version>1.8.1</parquet.version>
         <avro.version>1.8.1</avro.version>
 
-        <logback.version>1.1.8</logback.version>
+        <logback.version>1.2.0</logback.version>
 
         <fastjson.version>1.2.29</fastjson.version>
         <fastxml.jackson.version>2.9.3</fastxml.jackson.version>
